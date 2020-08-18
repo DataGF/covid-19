@@ -6,4 +6,5 @@ Python package to get information regarding the novel corona virus provided by J
 Source: [covid2.3.0](https://pypi.org/project/covid/)
 
 For full documentation please click on image below:
+
 [<img src="https://ahmednafies.github.io/covid/img/corona.jpeg">](https://ahmednafies.github.io/covid/)
